@@ -1,2 +1,2 @@
 # config_files
-just some of my configuration files
+just some of my personal configuration files 
